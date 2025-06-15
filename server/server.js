@@ -14,7 +14,7 @@ const app = express();
 connectDB();
 
 app.use(cors({
-    origin: ['http://localhost:5173','https://blog-mittarv.onrender.com'], // your frontend
+    origin: ['http://localhost:5173','https://naihati-locals.onrender.com'], // your frontend
     methods: ['GET', 'POST', 'PUT', 'DELETE'],
     allowedHeaders: ['Content-Type', 'Authorization'] // allow JWT header
   }));
