@@ -102,7 +102,7 @@ Create a .env file in both blog and blog_backend folders:
 
 **Live At **
 \\\`
-https://blog-mittarv-1.onrender.com
+https://naihati-locals.onrender.com
 \\\`
 *Frontend (.env)*
 \\\`
