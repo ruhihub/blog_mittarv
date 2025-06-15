@@ -27,7 +27,7 @@ const About = () => {
         If you'd like to collaborate, share feedback, or connect for future opportunities, feel free to reach out.
       </p>
 
-      <a href="mailto:lionelanand3@gmail.com" className="about-button contact-button">
+      <a href="mailto:reshmigupta1111@gmail.com" className="about-button contact-button">
         📧 Contact Me
       </a>
     </div>
