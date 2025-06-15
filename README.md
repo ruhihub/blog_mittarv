@@ -53,7 +53,7 @@ We used AI tools like *ChatGPT* throughout the development process to improve ef
 ### 1. Clone the Repository
 
 \\\`bash
-git clone https://github.com/anandpathak07/myblog_mittarv-.git
+https://github.com/ruhihub/blog_mittarv.git
 \\\`
 
 ### 2. Setup Frontend (Client)
